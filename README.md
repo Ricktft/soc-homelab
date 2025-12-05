@@ -26,7 +26,7 @@ Simulação de ataque real com tráfego malicioso (C2, exfiltração, ransomware
 
 ## Dashboard Criado no Splunk  
 ![Dashboard](dashboard.png)  
-*Print do painel com alertas em tempo real*
+
 
 ---
 
